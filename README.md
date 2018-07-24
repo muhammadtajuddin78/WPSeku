@@ -7,7 +7,7 @@ WPSeku is a black box WordPress vulnerability scanner that can be used to scan r
 
 ## Installation
 ```
-$ git clone https://github.com/m4ll0k/WPSeku.git wpseku
+$ git clone https://github.com/muhammadtajuddin78/WPSeku.git wpseku
 $ cd wpseku
 $ pip3 install -r requirements.txt
 $ python3 wpseku.py
@@ -27,7 +27,7 @@ $ python3 wpseku.py
       |_|             v0.4.0
 
 WPSeku - Wordpress Security Scanner
-by Momo Outaadi (m4ll0k)
+by jack (78)
 ----------------------------------------
 
 [ + ] Target: https://www.xxxxxxx.com
@@ -64,7 +64,7 @@ by Momo Outaadi (m4ll0k)
       |_|             v0.4.0
 
 WPSeku - Wordpress Security Scanner
-by Momo Outaadi (m4ll0k)
+by jack (78)
 ----------------------------------------
 
 [ + ] Target: https://www.xxxxxxx.com
@@ -98,7 +98,7 @@ __Note__: Testing Akismet Directory Plugin https://plugins.svn.wordpress.org/aki
       |_|             v0.4.0
 
 WPSeku - Wordpress Security Scanner
-by Momo Outaadi (m4ll0k)
+by jack (78)
 ----------------------------------------
 
 [ + ] Checking PHP code...
