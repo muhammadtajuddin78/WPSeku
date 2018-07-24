@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # WPSeku - Wordpress Security Scanner
-# by Momo Outaadi (m4ll0k) and Filippo Conti (b4dnewz)
+# by jack (78)
 
 import fnmatch
 import glob
