@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # WPSeku - Wordpress Security Scanner
-# by Momo Outaadi (m4ll0k)
+# by jack (78)
 
 def readfile(path):
 	return [lines.strip() for lines in open(path,'rb')]
