@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # WPSeku - Wordpress Security Scanner 
-# by Momo Outaadi (m4ll0k)
+# by jack (78)
 
 RED = "\x1b[%s;31m"
 GREEN = "\x1b[%s;32m"
