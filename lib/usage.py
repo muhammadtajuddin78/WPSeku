@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # WPSeku - Wordpress Security Scanner
-# by Momo Outaadi (m4ll0k)
+# by jack (78)
 
 import sys
 from time import strftime
@@ -23,7 +23,7 @@ def banner():
 	print("|_____|  _|___|___|_,_|___|")
 	print("      |_|             v0.4.0\n")
 	print("WPSeku - Wordpress Security Scanner")
-	print("by Momo Outaadi (m4ll0k)")
+	print("by jack (78)")
 	print("-"*40+"\n")
 	
 def usage(e=False):
